@@ -1,4 +1,4 @@
-package com.ex;
+package com.namoosori.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
