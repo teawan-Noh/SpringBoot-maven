@@ -36,7 +36,7 @@ public class HelloController {
 	
 	@GetMapping("/users")
 	public List<User> findAll(){
-		System.out.println("커밋테스트");
+		System.out.println("커밋테스트  다시");
 		return userService.findAll();
 	}
 }
